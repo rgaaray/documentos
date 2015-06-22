@@ -1,0 +1,11 @@
+ANT --> %ANT_HOME%\bin
+ANT_HOME --> C:\rene.garay\Programas\Herramientas\apache-ant-1.9.4
+APP_ENCRYPTION_PASSWORD --> jasypt
+AXIS2_HOME --> C:\rene.garay\Programas\Herramientas\axis2-1.6.2
+JAVA_HOME --> C:\Program Files\Java\jdk1.7.0_75 
+M2 --> %M2_HOME%\bin
+M2_HOME --> C:\rene.garay\Programas\Herramientas\apache-maven-2.2.1
+Path --> %CommonProgramFiles%\Microsoft Shared\Windows Live;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\TortoiseSVN\bin;%M2_HOME%\bin;%JAVA_HOME%\bin;C:\Program Files\nodejs\;%ANT%;%ADT-PLATFORM-TOOLS%;%ADT-TOOLS%;%APP_ENCRYPTION_PASSWORD%;C:\Program Files\QuickTime\QTSystem\
+%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%M2_HOME%\bin;%JAVA_HOME%\bin;C:\Program Files\nodejs\;%ANT%;%ADT-PLATFORM-TOOLS%;%ADT-TOOLS%;%APP_ENCRYPTION_PASSWORD%
+ADT-PLATFORM-TOOLS --> C:\rene.garay\Programas\IDE\ADT-x86\sdk\platform-tools
+ADT-TOOLS --> C:\rene.garay\Programas\IDE\ADT-x86\sdk\tools

@@ -1,0 +1,14 @@
+-------------------------
+CONFIGURACION MAVEN
+-------------------------
+
+1.- Configurar las variables de entorno
+	JAVA_HOME 	--> C:\Program Files\Java\jdk1.6.0_35
+	M2_HOME		--> C:\rene.garay\Programas\Herramientas\apache-maven-2.2.1
+	M2			--> %M2_HOME%\bin
+	PATH 		--> ;%M2_HOME%\bin;%JAVA_HOME%\bin
+
+2.- Probar en consola: mvn -version
+
+mvn install:install-file -Dfile=C:/fernando.batres/Programas/Herramientas/jars/saaj.jar -DgroupId=javax-xml-soap -DartifactId=javax-xml-soap -Dversion=1.1.2 -Dpackaging=jar
+	

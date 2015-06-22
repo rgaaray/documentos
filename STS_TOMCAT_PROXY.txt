@@ -1,0 +1,1 @@
+-Djava.net.preferIPv4Stack=true -Dhttp.proxyHost=216.46.96.67 -Dhttp.proxyPort=18717 -Dhttp.nonProxyHosts=localhost|127.0.0.1|172.23.16.*|172.23.17.*
